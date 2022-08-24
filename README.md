@@ -1,11 +1,11 @@
-# Composante - Form
+# Exercice révision WordPress (etim)
 
-Introduction de la composantes Form. Form nous permet une validation personnalisée d'un formulaire en utilisant la validation native HTML5.
+Base de travail de la partie 1 pour l'exercice de révision
 <br><br>
 
-## **Consigne de l'exercice**
+## **Comment démarrer le stack**
 
-Lien youtube Form: https://www.youtube.com/watch?v=704rVZ5-crg
+npm install suivi de npm start pour démarrer le stack
 
 <br><br>
 

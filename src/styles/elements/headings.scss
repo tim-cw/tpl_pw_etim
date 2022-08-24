@@ -8,7 +8,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: var(--font-primary);
+    font-family: var(--font-secondary);
     line-height: 1.1;
     font-weight: bold;
     margin: 0;
@@ -37,4 +37,8 @@ h5 {
 
 h6 {
     font-size: var(--font-size-h6);
+}
+
+em {
+    font-style: italic;
 }
